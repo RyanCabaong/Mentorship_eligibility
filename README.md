@@ -3,6 +3,8 @@ For this project, I'm creating tables using PgAdmin4 to identify retiring employ
 
 
 Retiring titles
+
+
 ![retiring titles](https://user-images.githubusercontent.com/79386482/185719420-680e43db-2037-4d55-b91b-389b40d102af.PNG)
 
 
@@ -11,6 +13,8 @@ All employees able to retire (current employees who were born between January 1,
 
 
 Total employees
+
+
 ![num of employees](https://user-images.githubusercontent.com/79386482/185719394-2b04f6ee-a97f-44d5-b2ac-e6e36bd96101.PNG)
 
 
@@ -19,4 +23,6 @@ Mentorship eligibility (current employees who were born between January 1, 1965 
 
 
 Total Mentor-eligible employees
+
+
 ![total of mentor eligible](https://user-images.githubusercontent.com/79386482/185719910-568aee0b-d44e-46c2-a4bd-aaa6d0944a84.PNG)
